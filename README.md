@@ -19,9 +19,8 @@ This project uses a fine-tuned YOLOv8 model to detect and count people in a clas
 
 ## Motivation
 Counting and detecting people in a room efficiently is crucial for monitoring attendance, optimizing space usage, and ensuring security. YOLO's robustness in object detection makes it an ideal choice for real-time applications in fixed environments like classrooms.
-
-
-  ##                                    Drawbacks of YOLOv8x
+          Drawbacks of YOLOv8x
+  
   [image](https://github.com/user-attachments/assets/fda1ee3d-cd44-4d20-a20e-79a7c8872664)
                               Existing State-of-art models like YOLO v8x can't detect people in image accurately
 
