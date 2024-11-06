@@ -1,4 +1,4 @@
-# Human Detection and Counting in Blur Images Using YOLOv8
+# Human Detection and Counting in Classrooms Using YOLOv8
 
 ## Description
 A human detection and counting solution optimized for classroom environments, leveraging the YOLOv8 model. This project fine-tunes YOLOv8 for improved accuracy in detecting and counting people in an indoor, controlled environment.
@@ -19,10 +19,9 @@ This project uses a fine-tuned YOLOv8 model to detect and count people in a clas
 
 ## Motivation
 Counting and detecting people in a room efficiently is crucial for monitoring attendance, optimizing space usage, and ensuring security. YOLO's robustness in object detection makes it an ideal choice for real-time applications in fixed environments like classrooms.
-          Drawbacks of YOLOv8x
-  
-  [image](https://github.com/user-attachments/assets/fda1ee3d-cd44-4d20-a20e-79a7c8872664)
-                              Existing State-of-art models like YOLO v8x can't detect people in image accurately
+          ![image](https://github.com/user-attachments/assets/bcdc2015-c894-49ca-8888-2f3af06a3157)
+
+
 
 ## Features
 - Fine-tuned YOLOv8 model with optimized performance for indoor, classroom conditions.
