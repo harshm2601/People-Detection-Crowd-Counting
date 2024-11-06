@@ -45,4 +45,4 @@ The fine-tuned YOLOv8 model achieved high detection accuracy in classroom enviro
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/YourProjectName.git
+   git clone https://github.com/harshm2601/People-Detection-Crowd-Counting.git
