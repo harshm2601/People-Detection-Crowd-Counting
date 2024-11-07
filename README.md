@@ -38,6 +38,10 @@ Counting and detecting people in a room efficiently is crucial for monitoring at
 
 ## Results
 The fine-tuned YOLOv8 model achieved high detection accuracy in classroom environments, with a notable improvement over our custom models. Key results:
+![image](https://github.com/user-attachments/assets/e2bff66f-aec1-4070-abc7-cc9c0eaac0ab)
+
+
+
 - **Model Accuracy**: XX%
 - **mAP**: YY%
 - **Real-Time Processing Speed**: ZZ FPS
