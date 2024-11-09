@@ -42,11 +42,7 @@ The fine-tuned YOLOv8 model achieved high detection accuracy in classroom enviro
 
 
 
-- **Model Accuracy**: XX%
-- **mAP**: YY%
-- **Real-Time Processing Speed**: ZZ FPS
+- **Model Accuracy**: 96.7
+- **mAP 50-95**: 91.6%
+- **Real-Time Processing Speed**: 25 FPS
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/harshm2601/People-Detection-Crowd-Counting.git
