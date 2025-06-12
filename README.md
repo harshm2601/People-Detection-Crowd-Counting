@@ -42,7 +42,7 @@ The fine-tuned YOLOv8 model achieved high detection accuracy in classroom enviro
 
 
 
-- **Model Accuracy**: 96.7
+- **Model Accuracy**: 90.65
 - **mAP 50-95**: 91.6%
 - **Real-Time Processing Speed**: 25 FPS
 
